@@ -5,7 +5,7 @@
 
 ## postges-alpine-wal2json
 
-Postgres 11 running on Alpine Linux with the [wal2json](https://github.com/eulerto/wal2json) plugin installed. Trimmed down from [debezium](https://github.com/debezium/docker-images/tree/master/postgres/11-alpine)'s version. View it on [Dockerhub](https://cloud.docker.com/repository/docker/djmccormick/postgres-alpine-wal2json)'s.
+Postgres 11 running on Alpine Linux with the [wal2json](https://github.com/eulerto/wal2json) plugin installed. Trimmed down from [debezium](https://github.com/debezium/docker-images/tree/master/postgres/11-alpine)'s version.
 
 
 ## postgres-alpine-plpython
